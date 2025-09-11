@@ -174,4 +174,4 @@ MIT License
 
 Shreyan S – [shreyanofficial25@gmail.com]
 
-[🔗 GitHub](https://github.com/Shreyan1590/otp-login-system)
+[🔗 GitHub](https://github.com/Shreyan1590/OTP-Based-Login-System)
